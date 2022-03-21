@@ -2,7 +2,7 @@
 
 ## git submodule 安装方式
 安装
-`git submodule add git@github.com:xinx1n/hugo-theme-cactus-plus.git`
+`git submodule add git@github.com:xinx1n/hugo-theme-cactus-plus.git themes/cactus-plus`
 
 更新
 `git submodule update --remote --merge`
